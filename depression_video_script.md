@@ -208,3 +208,39 @@ Bold black-outline cartoon aesthetic, clean and minimal. Ultra-wide 16:9 aspect 
 ```
 Mind Lightbulb explores psychology and mental health through simple, honest, story-driven explainer videos. No jargon, no judgment — just clear answers about how our minds actually work: what's really happening during anxiety, depression, motivation, and everything in between. New episodes break down real psychology into stories anyone can follow, with one goal: helping you understand your own mind a little better, one lightbulb at a time.
 ```
+
+---
+
+## YouTube Upload Metadata (matches the actual 2:15 rendered video)
+
+### Title
+What If You Actually Had Depression? (Explained Simply)
+
+### Description (with corrected timecodes)
+```
+Depression isn't just "being sad." In this short, honest explainer we walk through what depression actually feels like from the inside — why mornings feel impossible, what's happening in your brain, and what genuinely helps. No jargon, no judgment.
+
+If you or someone you know is struggling, please reach out to a professional or a local crisis line. You're not broken.
+
+⏱ Chapters:
+00:00  Intro — who this is for
+00:15  When mornings feel impossible
+00:28  What's happening inside your brain
+00:50  How it hits everyday life
+01:25  The myths we need to drop
+01:40  What actually helps
+01:58  You're not broken
+
+🔔 Subscribe to Mind Lightbulb for simple, honest psychology — one lightbulb at a time.
+
+#depression #mentalhealth #psychology
+```
+
+### Tags
+depression, mental health, psychology, what depression feels like, depression explained, anxiety, mental health awareness, self help, therapy, how depression works, depression symptoms, mind lightbulb, explainer, animated explainer, mental wellness
+
+### Hashtags (in description / title)
+#depression #mentalhealth #psychology
+
+### Category
+Education
