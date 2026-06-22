@@ -1,145 +1,173 @@
-# "Что, если бы у тебя была депрессия?" — сценарий (6–7 мин)
+# "What If You Actually Had Depression?" — Script (6–7 min)
 
-## Персонаж (неизменное описание для всех промптов)
+## Character (consistent description for every prompt)
 Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs. Messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers.
 
-Базовый стиль (добавлять в конец каждого промпта):
+Base style (append to the end of every prompt):
 Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 
 ---
 
-## СЦЕНА 1 — Хук (0:00–0:30)
+## SCENE 1 — Hook (0:00–0:30)
 
-**Визуал:** Персонаж стоит на пустой светлой сцене/студии, смотрит прямо в камеру, руки слегка разведены, дружелюбная поза.
+**Visual:** Character stands alone on an empty, bright stage/studio, facing the camera directly, arms slightly spread, friendly posture.
 
-**Image-промпт:**
+**Image prompt:**
 ```
-[ПЕРСОНАЖ], standing alone on a minimalist light beige stage, facing the viewer directly, arms slightly open in a friendly inviting gesture, soft spotlight from above. [БАЗОВЫЙ СТИЛЬ]
+[CHARACTER], standing alone on a minimalist light beige stage, facing the viewer directly, arms slightly open in a friendly inviting gesture, soft spotlight from above. [BASE STYLE]
 ```
 
-**Текст для озвучки:**
-"Окей, представь. Ты просыпаешься — и сегодня что-то не так. Не то чтобы болит голова или температура. Просто... всё стало тяжелее. Будто кто-то незаметно прибавил гравитации именно тебе. Давай проживём этот день вместе и разберёмся, что на самом деле происходит, когда у человека депрессия."
+**Voiceover:**
+"Okay, picture this. You wake up — and today something feels off. Not a headache, not a fever. Just... everything feels heavier. Like someone quietly turned up gravity just for you. Let's live through this day together and figure out what's actually happening when someone has depression."
 
 ---
 
-## СЦЕНА 2 — Обычное утро vs депрессивное утро (0:30–1:30)
+## SCENE 2 — Normal morning vs. depressed morning (0:30–1:30)
 
-**Визуал:** Split-screen комната. Слева — персонаж бодро встаёт с кровати, солнце, лёгкость. Справа — тот же персонаж лежит в кровати, на теле нарисованы полупрозрачные тяжёлые цепи/гири как метафора, будильник звонит, но рука не реагирует.
+**Visual:** Split-screen bedroom. On the left, the character jumps out of bed energetically, sunlight, lightness. On the right, the same character lies in bed, translucent heavy chains and weights draped over his body as a metaphor, an alarm clock ringing, his hand barely reacting.
 
-**Image-промпт (левая часть):**
+**Image prompt (left side):**
 ```
-[ПЕРСОНАЖ] energetically jumping out of bed in a bright cozy bedroom, sunlight streaming through the window, cheerful expression, stretching arms upward. [БАЗОВЫЙ СТИЛЬ]
-```
-
-**Image-промпт (правая часть):**
-```
-[ПЕРСОНАЖ] lying motionless in bed in a dim bedroom, translucent heavy chains and weights draped over his body and limbs, an alarm clock ringing on the nightstand, his hand barely reaching toward it, exhausted expression. [БАЗОВЫЙ СТИЛЬ]
+[CHARACTER] energetically jumping out of bed in a bright cozy bedroom, sunlight streaming through the window, cheerful expression, stretching arms upward. [BASE STYLE]
 ```
 
-**Текст для озвучки:**
-"Вот обычное утро: будильник — встал — пошёл. Просто и быстро. А вот утро с депрессией: будильник звонит, а тело будто заковано. Не потому что лень. А потому что каждая мышца как будто весит в три раза больше обычного. Встать с кровати — это уже маленький подвиг."
+**Image prompt (right side):**
+```
+[CHARACTER] lying motionless in bed in a dim bedroom, translucent heavy chains and weights draped over his body and limbs, an alarm clock ringing on the nightstand, his hand barely reaching toward it, exhausted expression. [BASE STYLE]
+```
+
+**Voiceover:**
+"Here's a normal morning: alarm rings, you get up, you go. Quick and simple. Now here's a morning with depression: the alarm rings, but the body feels chained down. Not because of laziness — because every muscle feels like it weighs three times more than usual. Just getting out of bed is already a small victory."
 
 ---
 
-## СЦЕНА 3 — Что происходит в мозге (1:30–3:00)
+## SCENE 3 — What's happening in the brain (1:30–3:00)
 
-**Визуал:** Камера "залетает" внутрь головы персонажа — голова показана как уютная комната с множеством лампочек-фонариков на стенах (метафора нейромедиаторов). Часть лампочек потухла или мерцает слабым светом.
+**Visual:** The camera "flies" inside the character's head — shown as a cozy round room covered in small lightbulbs and string lights (a metaphor for neurotransmitters). Some bulbs are dim or flickering weakly, others completely dark.
 
-**Image-промпт:**
+**Image prompt:**
 ```
-Interior view of a cozy round room representing the inside of [ПЕРСОНАЖ]'s head, walls covered with many small lightbulbs and string lights, several bulbs dim or flickering weakly while others are completely dark, a small control panel with levers in the center, warm but slightly melancholic lighting. [БАЗОВЫЙ СТИЛЬ]
+Interior view of a cozy round room representing the inside of [CHARACTER]'s head, walls covered with many small lightbulbs and string lights, several bulbs dim or flickering weakly while others are completely dark, a small control panel with levers in the center, warm but slightly melancholic lighting. [BASE STYLE]
 ```
 
-**Текст для озвучки:**
-"Смотри, что происходит внутри. В мозге есть вещества — серотонин, дофамин, норадреналин — которые отвечают за настроение, мотивацию, удовольствие. Представь их как лампочки в комнате. Когда у человека депрессия, часть этих лампочек тускнеет или гаснет. И дело не в том, что человек 'не старается светить'. Просто проводка реально работает иначе. Это биология, а не лень и не каприз."
+**Voiceover:**
+"Look at what's happening inside. The brain has chemicals — serotonin, dopamine, norepinephrine — responsible for mood, motivation, pleasure. Picture them as lightbulbs in a room. When someone has depression, some of these bulbs dim or go out. It's not that the person 'isn't trying hard enough to shine.' The wiring is genuinely working differently. This is biology, not laziness, not a mood swing by choice."
 
 ---
 
-## СЦЕНА 4 — Влияние на повседневность (3:00–4:30)
+## SCENE 4 — Impact on daily life (3:00–4:30)
 
-### 4а. Работа/учёба
-**Image-промпт:**
+### 4a. Work / school
+**Image prompt:**
 ```
-[ПЕРСОНАЖ] sitting at a desk in front of a laptop, the text and icons on the screen rendered blurry and dissolving, his head resting heavily on one hand, struggling to focus. [БАЗОВЫЙ СТИЛЬ]
-```
-
-### 4б. Общение с друзьями
-**Image-промпт:**
-```
-[ПЕРСОНАЖ] sitting at a cafe table with two cheerful stick-figure friends talking and laughing, [ПЕРСОНАЖ] visually fading into a slightly transparent, grayscale version of himself while his friends remain colorful, a thin glass-like barrier visible between him and them. [БАЗОВЫЙ СТИЛЬ]
+[CHARACTER] sitting at a desk in front of a laptop, the text and icons on the screen rendered blurry and dissolving, his head resting heavily on one hand, struggling to focus. [BASE STYLE]
 ```
 
-### 4в. Еда и сон
-**Image-промпт:**
+### 4b. Hanging out with friends
+**Image prompt:**
 ```
-[ПЕРСОНАЖ] sitting at a kitchen table in front of an enormous oversized plate of food that looks like a small mountain, his expression overwhelmed and tired, an equally oversized bed visible in the background looking impossibly far away. [БАЗОВЫЙ СТИЛЬ]
+[CHARACTER] sitting at a cafe table with two cheerful stick-figure friends talking and laughing, [CHARACTER] visually fading into a slightly transparent, grayscale version of himself while his friends remain colorful, a thin glass-like barrier visible between him and them. [BASE STYLE]
 ```
 
-**Текст для озвучки:**
-"Это отражается на всём. На работе или учёбе — текст будто расплывается, концентрация ускользает. С друзьями — ты физически рядом, но как будто за стеклом, отделён от всех. Даже обычная еда может казаться непреодолимой задачей, а постель — недостижимо далёкой, даже если до неё пару шагов. Депрессия не про 'грустно'. Она про то, что простые вещи требуют непростых усилий."
+### 4c. Food and sleep
+**Image prompt:**
+```
+[CHARACTER] sitting at a kitchen table in front of an enormous oversized plate of food that looks like a small mountain, his expression overwhelmed and tired, an equally oversized bed visible in the background looking impossibly far away. [BASE STYLE]
+```
+
+**Voiceover:**
+"This shows up everywhere. At work or school, text seems to blur, focus slips away. With friends, you're physically there but it feels like you're behind glass, cut off from everyone. Even regular food can feel like an impossible task, and your own bed can feel impossibly far away, even if it's just a few steps. Depression isn't about being 'sad.' It's about simple things suddenly demanding effort that isn't simple at all."
 
 ---
 
-## СЦЕНА 5 — Развенчание мифов (4:30–5:30)
+## SCENE 5 — Busting the myths (4:30–5:30)
 
-**Визуал:** Персонаж стоит перед большой стеной с написанными фразами, одну за другой зачёркивает крестом.
+**Visual:** The character stands in front of a large wall covered with written phrases, crossing them out one by one.
 
-**Image-промпт:**
+**Image prompt:**
 ```
-[ПЕРСОНАЖ] standing in front of a large wall covered with handwritten phrases, holding a marker, crossing out one phrase with a thick red X, confident and calm expression. [БАЗОВЫЙ СТИЛЬ]
+[CHARACTER] standing in front of a large wall covered with handwritten phrases, holding a marker, crossing out one phrase with a thick red X, confident and calm expression. [BASE STYLE]
 ```
 
-**Фразы на стене (зачёркиваются по одной):**
-- "Просто соберись"
-- "Это просто грусть, перетерпишь"
-- "У других проблемы серьёзнее"
-- "Депрессия — это слабость"
+**Phrases on the wall (crossed out one by one):**
+- "Just push through it"
+- "It's just sadness, you'll get over it"
+- "Other people have it worse"
+- "Depression is a weakness"
 
-**Текст для озвучки:**
-"Давай сразу разберёмся с парой мифов. 'Просто соберись' — не работает, потому что дело не в воле, а в химии мозга. 'Это просто грусть' — нет, грусть проходит, депрессия может тянуться месяцами и влиять на тело: сон, аппетит, энергию. 'У других проблемы серьёзнее' — боль не соревнуется, она просто есть. И главное: депрессия — это не слабость характера. Это медицинское состояние, как и любое другое."
+**Voiceover:**
+"Let's clear up a couple of myths. 'Just push through it' doesn't work, because this isn't about willpower, it's about brain chemistry. 'It's just sadness' — no, sadness passes, depression can last for months and affect the body: sleep, appetite, energy. 'Other people have it worse' — pain isn't a competition, it just exists. And most importantly: depression is not a character flaw. It's a medical condition, just like any other."
 
 ---
 
-## СЦЕНА 6 — Что реально помогает (5:30–6:30)
+## SCENE 6 — What actually helps (5:30–6:30)
 
-**Визуал:** Та же "комната-голова", но лампочки начинают постепенно зажигаться одна за другой, комната становится теплее и светлее. Рядом появляется маленькая фигура-терапевт/друг, протягивающая руку.
+**Visual:** The same "head-room," but the bulbs gradually start turning back on one by one, the room growing warmer and brighter. A small second figure — a therapist or friend — appears in the doorway, extending a hand.
 
-**Image-промпт:**
+**Image prompt:**
 ```
-The same cozy round room inside [ПЕРСОНАЖ]'s head, but now several lightbulbs are gradually turning back on one by one, the room glowing warmer, a small second stick figure standing in the doorway extending a supportive hand toward [ПЕРСОНАЖ]. [БАЗОВЫЙ СТИЛЬ]
+The same cozy round room inside [CHARACTER]'s head, but now several lightbulbs are gradually turning back on one by one, the room glowing warmer, a small second stick figure standing in the doorway extending a supportive hand toward [CHARACTER]. [BASE STYLE]
 ```
 
-**Текст для озвучки:**
-"Хорошая новость: лампочки можно зажечь обратно. Терапия помогает разобраться, что усиливает симптомы и как с этим работать. Иногда нужна медикаментозная поддержка — и это нормально, как и любое другое лечение. Маленькие шаги — режим сна, движение, разговор с близким человеком — складываются в разницу. Никто не обязан 'просто перетерпеть' это в одиночку."
+**Voiceover:**
+"Good news: the bulbs can be switched back on. Therapy helps figure out what's making symptoms worse and how to work through it. Sometimes medication is needed — and that's completely normal, just like treatment for any other condition. Small steps — a sleep routine, movement, talking to someone close — add up to a real difference. Nobody has to just 'tough it out' alone."
 
 ---
 
-## СЦЕНА 7 — Концовка / CTA (6:30–7:00)
+## SCENE 7 — Ending / CTA (6:30–7:00)
 
-**Визуал:** Персонаж снова на светлой сцене, как в начале, но теперь расслабленный, тёплая улыбка (минимальная, через позу), смотрит в камеру.
+**Visual:** The character is back on the same bright stage as the opening, but now relaxed, with a warm presence (conveyed through posture), facing the camera.
 
-**Image-промпт:**
+**Image prompt:**
 ```
-[ПЕРСОНАЖ] standing on the same minimalist light beige stage as the opening scene, relaxed posture, warm inviting body language, facing the viewer directly. [БАЗОВЫЙ СТИЛЬ]
+[CHARACTER] standing on the same minimalist light beige stage as the opening scene, relaxed posture, warm inviting body language, facing the viewer directly. [BASE STYLE]
 ```
 
-**Текст для озвучки:**
-"Если ты узнал в этом видео себя или кого-то рядом — это нормально попросить о помощи. Это не слабость, а первый шаг к тому, чтобы лампочки снова загорелись. Если тебе тяжело прямо сейчас — поговори со специалистом или хотя бы с тем, кому доверяешь. А если видео было полезным — подписывайся, у нас впереди ещё много тем про то, как на самом деле работает наша голова."
+**Voiceover:**
+"If you recognized yourself or someone close to you in this video — it's okay to ask for help. That's not weakness, it's the first step toward switching those bulbs back on. If things feel heavy right now, talk to a professional, or at least to someone you trust. And if this video was helpful, subscribe — we've got a lot more topics coming up on how our minds actually work."
 
 ---
 
-## Полный текст для озвучки (без разбивки на сцены, для записи аудио целиком)
+## Full voiceover script (continuous, for recording)
 
-Окей, представь. Ты просыпаешься — и сегодня что-то не так. Не то чтобы болит голова или температура. Просто... всё стало тяжелее. Будто кто-то незаметно прибавил гравитации именно тебе. Давай проживём этот день вместе и разберёмся, что на самом деле происходит, когда у человека депрессия.
+Okay, picture this. You wake up — and today something feels off. Not a headache, not a fever. Just... everything feels heavier. Like someone quietly turned up gravity just for you. Let's live through this day together and figure out what's actually happening when someone has depression.
 
-Вот обычное утро: будильник — встал — пошёл. Просто и быстро. А вот утро с депрессией: будильник звонит, а тело будто заковано. Не потому что лень. А потому что каждая мышца как будто весит в три раза больше обычного. Встать с кровати — это уже маленький подвиг.
+Here's a normal morning: alarm rings, you get up, you go. Quick and simple. Now here's a morning with depression: the alarm rings, but the body feels chained down. Not because of laziness — because every muscle feels like it weighs three times more than usual. Just getting out of bed is already a small victory.
 
-Смотри, что происходит внутри. В мозге есть вещества — серотонин, дофамин, норадреналин — которые отвечают за настроение, мотивацию, удовольствие. Представь их как лампочки в комнате. Когда у человека депрессия, часть этих лампочек тускнеет или гаснет. И дело не в том, что человек "не старается светить". Просто проводка реально работает иначе. Это биология, а не лень и не каприз.
+Look at what's happening inside. The brain has chemicals — serotonin, dopamine, norepinephrine — responsible for mood, motivation, pleasure. Picture them as lightbulbs in a room. When someone has depression, some of these bulbs dim or go out. It's not that the person "isn't trying hard enough to shine." The wiring is genuinely working differently. This is biology, not laziness, not a mood swing by choice.
 
-Это отражается на всём. На работе или учёбе — текст будто расплывается, концентрация ускользает. С друзьями — ты физически рядом, но как будто за стеклом, отделён от всех. Даже обычная еда может казаться непреодолимой задачей, а постель — недостижимо далёкой, даже если до неё пару шагов. Депрессия не про "грустно". Она про то, что простые вещи требуют непростых усилий.
+This shows up everywhere. At work or school, text seems to blur, focus slips away. With friends, you're physically there but it feels like you're behind glass, cut off from everyone. Even regular food can feel like an impossible task, and your own bed can feel impossibly far away, even if it's just a few steps. Depression isn't about being "sad." It's about simple things suddenly demanding effort that isn't simple at all.
 
-Давай сразу разберёмся с парой мифов. "Просто соберись" — не работает, потому что дело не в воле, а в химии мозга. "Это просто грусть" — нет, грусть проходит, депрессия может тянуться месяцами и влиять на тело: сон, аппетит, энергию. "У других проблемы серьёзнее" — боль не соревнуется, она просто есть. И главное: депрессия — это не слабость характера. Это медицинское состояние, как и любое другое.
+Let's clear up a couple of myths. "Just push through it" doesn't work, because this isn't about willpower, it's about brain chemistry. "It's just sadness" — no, sadness passes, depression can last for months and affect the body: sleep, appetite, energy. "Other people have it worse" — pain isn't a competition, it just exists. And most importantly: depression is not a character flaw. It's a medical condition, just like any other.
 
-Хорошая новость: лампочки можно зажечь обратно. Терапия помогает разобраться, что усиливает симптомы и как с этим работать. Иногда нужна медикаментозная поддержка — и это нормально, как и любое другое лечение. Маленькие шаги — режим сна, движение, разговор с близким человеком — складываются в разницу. Никто не обязан "просто перетерпеть" это в одиночку.
+Good news: the bulbs can be switched back on. Therapy helps figure out what's making symptoms worse and how to work through it. Sometimes medication is needed — and that's completely normal, just like treatment for any other condition. Small steps — a sleep routine, movement, talking to someone close — add up to a real difference. Nobody has to just "tough it out" alone.
 
-Если ты узнал в этом видео себя или кого-то рядом — это нормально попросить о помощи. Это не слабость, а первый шаг к тому, чтобы лампочки снова загорелись. Если тебе тяжело прямо сейчас — поговори со специалистом или хотя бы с тем, кому доверяешь. А если видео было полезным — подписывайся, у нас впереди ещё много тем про то, как на самом деле работает наша голова.
+If you recognized yourself or someone close to you in this video — it's okay to ask for help. That's not weakness, it's the first step toward switching those bulbs back on. If things feel heavy right now, talk to a professional, or at least to someone you trust. And if this video was helpful, subscribe — we've got a lot more topics coming up on how our minds actually work.
+
+---
+
+## Channel Branding
+
+### Channel name ideas
+1. **Mind Lightbulb** — ties directly to the lightbulb/brain metaphor used in the videos
+2. **The Inner Room** — references the "head as a room" visual concept
+3. **Wired Differently** — plays on the "brain wiring" theme, memorable and modern
+4. **Stick Figure Psychology** — literal, searchable, describes the format directly
+5. **Behind the Glass** — references the isolation metaphor, slightly poetic
+
+**Recommended:** "Mind Lightbulb" — short, visual, easy to brand, and directly reusable as a recurring motif (lightbulb logo, lightbulb intro sting, etc.)
+
+### Avatar prompt
+```
+[CHARACTER], close-up portrait framed from the chest up, centered, looking directly at the viewer with a calm, approachable expression, simple flat warm beige background, no extra scene elements, clean circular composition suitable for a profile picture, slightly more bold and simplified linework than a full scene for clarity at small sizes. [BASE STYLE, square 1:1 aspect ratio instead of 16:9]
+```
+
+### Banner / header prompt
+```
+Wide banner illustration, [CHARACTER] standing slightly off-center to the left inside the cozy round "head room" filled with string lights and lightbulbs, several bulbs glowing warmly, plenty of empty negative space on the right side reserved for channel text overlay, balanced and clean composition. [BASE STYLE, ultra-wide 16:9 aspect ratio, optimized for YouTube banner safe-zone cropping]
+```
+
+### Channel description
+```
+Mind Lightbulb explores psychology and mental health through simple, honest, story-driven explainer videos. No jargon, no judgment — just clear answers about how our minds actually work, what's really happening during anxiety, depression, motivation, and everything in between. New episodes break down real psychology into stories anyone can follow, with one goal: helping you understand your own mind a little better, one lightbulb at a time.
+```
