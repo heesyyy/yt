@@ -1,10 +1,6 @@
 # "What If You Actually Had Depression?" — Script (5–6 min, no animation, timed)
 
-## Character (consistent description for every prompt)
-[CHARACTER] = Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers.
-
-## Base style (append to the end of every prompt)
-[BASE STYLE] = Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
+All image prompts below are written in full — just copy-paste them directly into Nano Banana, no placeholders to fill in.
 
 Total runtime target: ~5:50 (16 images total). Each image is held on screen for the listed duration with a slow zoom (Ken Burns) in editing — no AI animation needed.
 
@@ -14,7 +10,7 @@ Total runtime target: ~5:50 (16 images total). Each image is held on screen for 
 
 **Image prompt:**
 ```
-[CHARACTER], standing alone on a minimalist light beige stage, facing the viewer directly, arms slightly open in a friendly inviting gesture, soft spotlight from above. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, standing alone on a minimalist light beige stage, facing the viewer directly, arms slightly open in a friendly inviting gesture, soft spotlight from above. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 
 **Voiceover (25s):**
@@ -26,14 +22,14 @@ Total runtime target: ~5:50 (16 images total). Each image is held on screen for 
 
 **Image prompt 2a:**
 ```
-[CHARACTER] energetically jumping out of bed in a bright cozy bedroom, sunlight streaming through the window, cheerful expression, stretching arms upward. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, energetically jumping out of bed in a bright cozy bedroom, sunlight streaming through the window, cheerful expression, stretching arms upward. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 2a (20s):**
 "Here's a normal morning: alarm rings, you get up, you go. Quick and simple."
 
 **Image prompt 2b:**
 ```
-[CHARACTER] lying motionless in bed in a dim bedroom, translucent heavy chains and weights draped over his body and limbs, an alarm clock ringing on the nightstand, his hand barely reaching toward it, exhausted expression. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, lying motionless in bed in a dim bedroom, translucent heavy chains and weights draped over his body and limbs, an alarm clock ringing on the nightstand, his hand barely reaching toward it, exhausted expression. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 2b (20s):**
 "Now here's a morning with depression: the alarm rings, but the body feels chained down. Not because of laziness — every muscle feels like it weighs three times more than usual. Just getting out of bed is already a small victory."
@@ -44,21 +40,21 @@ Total runtime target: ~5:50 (16 images total). Each image is held on screen for 
 
 **Image prompt 3a:**
 ```
-Interior view of a cozy round room representing the inside of [CHARACTER]'s head, walls covered with many small lightbulbs and string lights, all bulbs glowing brightly and warmly, a small control panel with levers in the center. [BASE STYLE]
+Interior view of a cozy round room representing the inside of a young man's head, walls covered with many small lightbulbs and string lights, all bulbs glowing brightly and warmly, a small control panel with levers in the center. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 3a (20s):**
 "Look at what's happening inside. The brain has chemicals — serotonin, dopamine, norepinephrine — responsible for mood, motivation, pleasure. Picture them as lightbulbs in a room."
 
 **Image prompt 3b:**
 ```
-The same cozy round room inside [CHARACTER]'s head, but now several lightbulbs are dim or flickering weakly, others completely dark, the room noticeably dimmer than before. [BASE STYLE]
+The same cozy round room inside a young man's head, but now several lightbulbs are dim or flickering weakly, others completely dark, the room noticeably dimmer than before. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 3b (20s):**
 "When someone has depression, some of these bulbs dim or go out. It's not that the person isn't trying hard enough to shine."
 
 **Image prompt 3c:**
 ```
-Close-up view of the control panel inside the same room, levers and switches visibly stuck or malfunctioning, a few sparks near the wiring, warm but melancholic lighting. [BASE STYLE]
+Close-up view of a control panel inside a cozy round room representing the inside of a young man's head, levers and switches visibly stuck or malfunctioning, a few sparks near the wiring, warm but melancholic lighting. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 3c (20s):**
 "The wiring is genuinely working differently. This is biology, not laziness, not a mood swing by choice."
@@ -69,21 +65,21 @@ Close-up view of the control panel inside the same room, levers and switches vis
 
 **Image prompt 4a:**
 ```
-[CHARACTER] sitting at a desk in front of a laptop, the text and icons on the screen rendered blurry and dissolving, his head resting heavily on one hand, struggling to focus. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, sitting at a desk in front of a laptop, the text and icons on the screen rendered blurry and dissolving, his head resting heavily on one hand, struggling to focus. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 4a (23s):**
 "This shows up everywhere. At work or school, text seems to blur, focus slips away."
 
 **Image prompt 4b:**
 ```
-[CHARACTER] sitting at a cafe table with two cheerful stick-figure friends talking and laughing, [CHARACTER] visually fading into a slightly transparent, grayscale version of himself while his friends remain colorful, a thin glass-like barrier visible between him and them. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, sitting at a cafe table with two cheerful stick-figure friends talking and laughing, fading into a slightly transparent, grayscale version of himself while his friends remain colorful, a thin glass-like barrier visible between him and them. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 4b (23s):**
 "With friends, you're physically there but it feels like you're behind glass, cut off from everyone."
 
 **Image prompt 4c:**
 ```
-[CHARACTER] sitting at a kitchen table in front of an enormous oversized plate of food that looks like a small mountain, his expression overwhelmed and tired, an equally oversized bed visible in the background looking impossibly far away. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, sitting at a kitchen table in front of an enormous oversized plate of food that looks like a small mountain, his expression overwhelmed and tired, an equally oversized bed visible in the background looking impossibly far away. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 4c (24s):**
 "Even regular food can feel like an impossible task, and your own bed can feel impossibly far away. Depression isn't about being 'sad.' It's about simple things demanding effort that isn't simple at all."
@@ -94,28 +90,28 @@ Close-up view of the control panel inside the same room, levers and switches vis
 
 **Image prompt 5a:**
 ```
-[CHARACTER] standing in front of a large wall, holding a marker, about to cross out a handwritten phrase that says "Just push through it", calm confident expression. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, standing in front of a large wall, holding a marker, about to cross out a handwritten phrase that says "Just push through it", calm confident expression. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 5a (15s):**
 "'Just push through it' doesn't work — this isn't about willpower, it's about brain chemistry."
 
 **Image prompt 5b:**
 ```
-[CHARACTER] standing in front of the same wall, crossing out a handwritten phrase that says "It's just sadness, you'll get over it" with a thick red X. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, standing in front of a large wall, crossing out a handwritten phrase that says "It's just sadness, you'll get over it" with a thick red X. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 5b (15s):**
 "'It's just sadness'? No — sadness passes. Depression can last for months and affect sleep, appetite, energy."
 
 **Image prompt 5c:**
 ```
-[CHARACTER] standing in front of the same wall, crossing out a handwritten phrase that says "Other people have it worse" with a thick red X. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, standing in front of a large wall, crossing out a handwritten phrase that says "Other people have it worse" with a thick red X. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 5c (15s):**
 "'Other people have it worse' — pain isn't a competition. It just exists."
 
 **Image prompt 5d:**
 ```
-[CHARACTER] standing in front of the same wall, crossing out the final handwritten phrase that says "Depression is a weakness" with a thick red X, all previous phrases already crossed out around it. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, standing in front of a large wall, crossing out the final handwritten phrase that says "Depression is a weakness" with a thick red X, all previous phrases already crossed out around it. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 5d (15s):**
 "And most importantly: depression is not a character flaw. It's a medical condition, just like any other."
@@ -126,14 +122,14 @@ Close-up view of the control panel inside the same room, levers and switches vis
 
 **Image prompt 6a:**
 ```
-The same cozy round room inside [CHARACTER]'s head, several lightbulbs gradually turning back on one by one, the room glowing warmer, a small second stick figure standing in the doorway extending a supportive hand toward [CHARACTER]. [BASE STYLE]
+The same cozy round room inside a young man's head, several lightbulbs gradually turning back on one by one, the room glowing warmer, a small second stick figure standing in the doorway extending a supportive hand toward him. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 6a (30s):**
 "Good news: the bulbs can be switched back on. Therapy helps figure out what's making symptoms worse and how to work through it. Sometimes medication is needed — and that's completely normal, just like treatment for any other condition."
 
 **Image prompt 6b:**
 ```
-The same room, now fully bright and warm, all lightbulbs glowing, [CHARACTER] standing comfortably in the center, relaxed posture. [BASE STYLE]
+The same room, now fully bright and warm, all lightbulbs glowing, a young man with a round white head, small black dot eyes, no nose, thin black limbs, messy tousled dark brown hair, round thin-framed glasses, light blue button-up shirt with sleeves rolled up, standing comfortably in the center, relaxed posture. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 **Voiceover 6b (30s):**
 "Small steps — a sleep routine, movement, talking to someone close — add up to a real difference. Nobody has to just 'tough it out' alone."
@@ -144,7 +140,7 @@ The same room, now fully bright and warm, all lightbulbs glowing, [CHARACTER] st
 
 **Image prompt:**
 ```
-[CHARACTER] standing on the same minimalist light beige stage as the opening scene, relaxed posture, warm inviting body language, facing the viewer directly. [BASE STYLE]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone, simple beige trousers, standing on a minimalist light beige stage, relaxed posture, warm inviting body language, facing the viewer directly. Cartoon illustration in the style of a thick black-outline animated explainer video, richly detailed warmly lit cartoon environment, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, slightly cinematic lighting, 16:9 aspect ratio.
 ```
 
 **Voiceover (35s):**
@@ -190,7 +186,7 @@ If you recognized yourself or someone close to you in this video — it's okay t
 
 ### Avatar prompt
 ```
-[CHARACTER], close-up portrait framed from the chest up, centered, looking directly at the viewer with a calm, approachable expression, simple flat warm beige background, no extra scene elements, clean circular composition suitable for a profile picture, slightly more bold and simplified linework than a full scene for clarity at small sizes. [BASE STYLE, square 1:1 aspect ratio instead of 16:9]
+Young man, simple stick-figure body with a round white head, small black dot eyes, no nose, minimal facial features, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, wrinkled light blue button-up shirt with sleeves rolled up and top button undone. Close-up portrait framed from the chest up, centered, looking directly at the viewer with a calm, approachable expression, simple flat warm beige background, no extra scene elements, clean circular composition suitable for a profile picture, slightly bolder and more simplified linework for clarity at small sizes. Cartoon illustration in the style of a thick black-outline animated explainer video, bold outlines, soft shadows, saturated but not neon colors, clean vector-cartoon look, 1:1 square aspect ratio.
 ```
 
 ### Banner / header prompt
@@ -199,7 +195,7 @@ Wide YouTube channel banner, completely flat solid warm beige background (sandy 
 
 Compose all important elements — the character and the text — entirely within the center 60% height and 75% width of the image, leaving generous empty beige margin on all sides (top, bottom, left, right) so nothing touches the edges.
 
-On the left-center: [CHARACTER], smiling warmly and pointing with one hand toward the text on the right.
+On the left-center: a young man, simple stick-figure body with a round white head, small black dot eyes, no nose, thin black limbs, messy tousled dark brown hair sticking up in different directions, round thin-framed glasses, light blue button-up shirt with sleeves rolled up, smiling warmly and pointing with one hand toward the text on the right.
 
 To the right of the character: hand-written lettering that says "Subscribe" (spelled correctly, fully legible, not cut off), friendly playful handwritten brush style, dark brown ink color, with a small hand-drawn underline or arrow doodle beneath the word. The entire word must fit comfortably within the safe zone with margin on the right side.
 
